@@ -1,0 +1,14 @@
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\ServiceManager.csproj.AssemblyReference.cache
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\MainWindow.baml
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\MainWindow.g.cs
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\App.g.cs
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\ServiceManager_MarkupCompile.cache
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\ServiceManager.g.resources
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\ServiceManager.Properties.Resources.resources
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\ServiceManager.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\ServiceManager.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\bin\Debug\ServiceManager.exe.config
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\bin\Debug\ServiceManager.exe
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\bin\Debug\ServiceManager.pdb
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\ServiceManager.exe
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Debug\ServiceManager.pdb

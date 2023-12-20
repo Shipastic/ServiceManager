@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\bin\Release\ServiceManager.exe.config
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\bin\Release\ServiceManager.exe
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\bin\Release\ServiceManager.pdb
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\MainWindow.baml
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\MainWindow.g.cs
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\App.g.cs
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\ServiceManager_MarkupCompile.cache
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\ServiceManager.g.resources
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\ServiceManager.Properties.Resources.resources
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\ServiceManager.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\ServiceManager.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\ServiceManager.exe
+C:\Users\Денис\source\repos\ServiceManager\ServiceManager\obj\Release\ServiceManager.pdb
