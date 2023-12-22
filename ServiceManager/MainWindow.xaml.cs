@@ -37,7 +37,7 @@ namespace ServiceManager
         private void OnRefresh(object sender, RoutedEventArgs e)
         {
             ServiceController[] scServices;
-            scServices = ServiceController.GetServices("10.71.10.155").OrderBy(s => s.DisplayName).ToArray();
+            scServices = ServiceController.GetServices("IP").OrderBy(s => s.DisplayName).ToArray();
             foreach (var service in scServices)
             {
                 listBoxServices.Items.Add(service);
@@ -55,7 +55,7 @@ namespace ServiceManager
             
             ServiceController service = (ServiceController)listBoxServices.SelectedItem;
             string serviceName = service.DisplayName;
-            ServiceController sc = new ServiceController(serviceName, "10.71.10.155");
+            ServiceController sc = new ServiceController(serviceName, "IP");
             sc.Refresh();
             Thread.Sleep(1000);
             if (sc.Status == ServiceControllerStatus.Running)
@@ -78,7 +78,7 @@ namespace ServiceManager
         {
             ServiceController service = (ServiceController)listBoxServices.SelectedItem;
             string serviceName = service.DisplayName;
-            ServiceController sc = new ServiceController(serviceName, "10.71.10.155");
+            ServiceController sc = new ServiceController(serviceName, "IP");
             sc.Refresh();
             Thread.Sleep(1000);
             if (sc.Status == ServiceControllerStatus.Stopped)
@@ -103,7 +103,7 @@ namespace ServiceManager
             //string curItem = listBoxServices.SelectedItem.ToString();
             ServiceController service = (ServiceController)listBoxServices.SelectedItem;
             string serviceName = service.DisplayName;
-            ServiceController sc = new ServiceController(serviceName, "10.71.10.155");
+            ServiceController sc = new ServiceController(serviceName, "IP");
             textDisplayName.Text = serviceName;
             textStatus.Text = sc.Status.ToString();
             textType.Text = sc.ServiceType.ToString();
